@@ -1,4 +1,4 @@
-"""The program runs 3 ways of generate prime numbers up to 100000
+"""The program runs 3 ways of generate prime numbers up to 50_000_000
     and prints the running time.
     Algorithm: Sieve of Eratosthenes"""
 import time
